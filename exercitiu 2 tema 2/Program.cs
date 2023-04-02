@@ -20,5 +20,5 @@ namespace MyFirstProgram2._1
 
             Console.ReadLine();
         }
-    }
+    }//Scrieti un program care va afisa factorialul unui numar n, n fiind citit de la tastatura.
 }
